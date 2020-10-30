@@ -4,3 +4,4 @@
 ## 2020-08-05 19:09:22 - feat(alert): implement alert feature
 ## 2020-09-19 10:55:49 - feat(config): add config endpoint (11/20)
 ## 2020-09-25 17:03:43 - feat(docs): add docs support
+## 2020-10-30 15:52:27 - feat(auth): create auth handler
