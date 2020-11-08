@@ -5,3 +5,4 @@
 ## 2020-09-19 10:55:49 - feat(config): add config endpoint (11/20)
 ## 2020-09-25 17:03:43 - feat(docs): add docs support
 ## 2020-10-30 15:52:27 - feat(auth): create auth handler
+## 2020-11-08 23:06:15 - feat(deploy): add deploy endpoint (4/20)
