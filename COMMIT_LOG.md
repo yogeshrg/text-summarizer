@@ -7,3 +7,4 @@
 ## 2020-10-30 15:52:27 - feat(auth): create auth handler
 ## 2020-11-08 23:06:15 - feat(deploy): add deploy endpoint (4/20)
 ## 2020-11-22 09:07:53 - feat(ci): implement ci feature (6/20)
+## 2020-12-19 19:49:30 - feat(docs): implement docs module (11/20)
