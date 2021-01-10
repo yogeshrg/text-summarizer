@@ -9,3 +9,4 @@
 ## 2020-11-22 09:07:53 - feat(ci): implement ci feature (6/20)
 ## 2020-12-19 19:49:30 - feat(docs): implement docs module (11/20)
 ## 2021-01-02 20:15:57 - feat(monitor): add monitor endpoint (12/20)
+## 2021-01-10 16:36:36 - feat(core): add core support (5/20)
