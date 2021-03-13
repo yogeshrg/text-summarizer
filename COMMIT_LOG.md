@@ -12,3 +12,4 @@
 ## 2021-01-10 16:36:36 - feat(core): add core support (5/20)
 ## 2021-01-10 17:24:45 - feat(model): create model handler (6/20)
 ## 2021-01-16 18:18:49 - feat(config): add config endpoint (17/20)
+## 2021-03-13 12:23:00 - feat(api): create api handler (9/20)
