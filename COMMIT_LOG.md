@@ -15,3 +15,4 @@
 ## 2021-03-13 12:23:00 - feat(api): create api handler (9/20)
 ## 2021-03-27 11:45:06 - feat(ui): add ui endpoint (10/20)
 ## 2021-03-27 21:21:48 - feat(metric): create metric handler (2/20)
+## 2021-05-02 23:09:26 - feat(ui): create ui handler (1/20)
