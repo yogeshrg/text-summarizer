@@ -18,3 +18,4 @@
 ## 2021-05-02 23:09:26 - feat(ui): create ui handler (1/20)
 ## 2021-05-09 09:21:00 - feat(cache): implement cache module (18/20)
 ## 2021-05-15 13:54:25 - feat(docs): create docs handler (4/20)
+## 2021-05-15 20:13:53 - feat(config): add config endpoint (9/20)
