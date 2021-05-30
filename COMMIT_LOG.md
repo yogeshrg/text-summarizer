@@ -19,3 +19,4 @@
 ## 2021-05-09 09:21:00 - feat(cache): implement cache module (18/20)
 ## 2021-05-15 13:54:25 - feat(docs): create docs handler (4/20)
 ## 2021-05-15 20:13:53 - feat(config): add config endpoint (9/20)
+## 2021-05-30 20:23:22 - feat(metric): add metric endpoint (14/20)
