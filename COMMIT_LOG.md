@@ -22,3 +22,4 @@
 ## 2021-05-30 20:23:22 - feat(metric): add metric endpoint (14/20)
 ## 2021-08-29 19:40:45 - feat(worker): add worker support (9/20)
 ## 2021-09-05 23:32:12 - feat(config): create config handler (16/20)
+## 2021-09-12 12:09:10 - feat(security): implement security feature (14/20)
