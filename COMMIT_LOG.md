@@ -31,3 +31,4 @@
 ## 2022-01-15 18:54:30 - feat(api): implement api feature (6/20)
 ## 2022-01-22 10:06:48 - feat(config): add config endpoint (17/20)
 ## 2022-01-29 17:18:08 - feat(ci): implement ci module (19/20)
+## 2022-02-13 11:20:36 - feat(model): implement model feature (15/20)
