@@ -34,3 +34,4 @@
 ## 2022-02-13 11:20:36 - feat(model): implement model feature (15/20)
 ## 2022-04-30 12:48:54 - feat(deploy): implement deploy feature (20/20)
 ## 2022-05-07 11:30:25 - feat(metric): implement metric module (6/20)
+## 2022-05-15 23:40:38 - feat(log): create log handler (19/20)
