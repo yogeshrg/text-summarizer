@@ -36,3 +36,4 @@
 ## 2022-05-07 11:30:25 - feat(metric): implement metric module (6/20)
 ## 2022-05-15 23:40:38 - feat(log): create log handler (19/20)
 ## 2022-06-08 10:35:43 - feat(ci): add ci support
+## 2022-06-11 19:13:06 - feat(auth): add auth support (14/20)
