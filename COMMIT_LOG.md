@@ -37,3 +37,4 @@
 ## 2022-05-15 23:40:38 - feat(log): create log handler (19/20)
 ## 2022-06-08 10:35:43 - feat(ci): add ci support
 ## 2022-06-11 19:13:06 - feat(auth): add auth support (14/20)
+## 2022-06-18 15:00:10 - feat(cache): add cache endpoint (4/20)
