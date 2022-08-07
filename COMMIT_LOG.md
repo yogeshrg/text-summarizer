@@ -40,3 +40,4 @@
 ## 2022-06-18 15:00:10 - feat(cache): add cache endpoint (4/20)
 ## 2022-07-02 19:13:26 - feat(docs): create docs handler (3/20)
 ## 2022-07-10 14:49:25 - feat(config): create config handler (16/20)
+## 2022-08-07 13:05:08 - feat(ui): add ui support (14/20)
