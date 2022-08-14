@@ -42,3 +42,4 @@
 ## 2022-07-10 14:49:25 - feat(config): create config handler (16/20)
 ## 2022-08-07 13:05:08 - feat(ui): add ui support (14/20)
 ## 2022-08-13 10:02:21 - feat(ui): implement ui module (6/20)
+## 2022-08-14 15:31:18 - feat(monitor): create monitor handler (8/20)
