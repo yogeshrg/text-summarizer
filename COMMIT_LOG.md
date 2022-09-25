@@ -46,3 +46,4 @@
 ## 2022-08-28 18:47:13 - feat(infra): create infra handler (1/20)
 ## 2022-09-11 11:17:54 - feat(ui): implement ui module (7/20)
 ## 2022-09-17 20:00:27 - feat(docs): add docs support (19/20)
+## 2022-09-25 11:08:12 - feat(ci): add ci endpoint (7/20)
