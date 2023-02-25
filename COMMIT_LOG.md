@@ -50,3 +50,4 @@
 ## 2022-10-29 09:06:00 - feat(auth): implement auth module (14/20)
 ## 2022-11-12 22:33:56 - feat(auth): add auth endpoint (14/20)
 ## 2023-02-19 10:04:21 - feat(deploy): implement deploy module (9/20)
+## 2023-02-25 18:29:02 - feat(alert): implement alert module (4/20)
