@@ -52,3 +52,4 @@
 ## 2023-02-19 10:04:21 - feat(deploy): implement deploy module (9/20)
 ## 2023-02-25 18:29:02 - feat(alert): implement alert module (4/20)
 ## 2023-03-29 14:08:28 - feat(log): implement log module
+## 2023-04-02 21:39:55 - feat(deploy): add deploy endpoint (3/20)
