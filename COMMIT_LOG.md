@@ -56,3 +56,4 @@
 ## 2023-04-30 10:44:57 - feat(deploy): add deploy support (16/20)
 ## 2023-06-24 17:38:51 - feat(ci): add ci endpoint (5/20)
 ## 2023-07-23 12:59:01 - feat(infra): implement infra module (19/20)
+## 2023-08-12 19:04:04 - feat(data): add data endpoint (1/20)
