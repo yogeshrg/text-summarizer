@@ -61,3 +61,4 @@
 ## 2023-09-30 17:20:15 - feat(config): create config handler (11/20)
 ## 2023-12-09 14:45:44 - feat(deploy): implement deploy module (5/20)
 ## 2023-12-10 22:08:33 - feat(alert): add alert support (13/20)
+## 2024-04-13 09:11:22 - feat(db): add db endpoint (13/20)
