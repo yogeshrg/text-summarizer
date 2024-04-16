@@ -62,3 +62,4 @@
 ## 2023-12-09 14:45:44 - feat(deploy): implement deploy module (5/20)
 ## 2023-12-10 22:08:33 - feat(alert): add alert support (13/20)
 ## 2024-04-13 09:11:22 - feat(db): add db endpoint (13/20)
+## 2024-04-16 23:34:55 - feat(api): create api handler
