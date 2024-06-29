@@ -65,3 +65,4 @@
 ## 2024-04-16 23:34:55 - feat(api): create api handler
 ## 2024-04-20 12:19:40 - feat(test): implement test module (14/20)
 ## 2024-05-29 09:42:02 - feat(queue): implement queue feature
+## 2024-06-29 13:07:27 - feat(worker): add worker support (2/20)
