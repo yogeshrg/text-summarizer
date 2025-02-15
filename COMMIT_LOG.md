@@ -77,3 +77,4 @@
 ## 2024-11-23 15:31:50 - feat(monitor): implement monitor module (13/20)
 ## 2024-12-08 14:55:58 - feat(deploy): implement deploy module (4/20)
 ## 2025-01-10 15:51:13 - feat(ui): implement ui module
+## 2025-02-15 19:40:13 - feat(security): add security support (5/20)
