@@ -84,3 +84,4 @@
 ## 2025-05-04 09:30:53 - feat(docs): implement docs module (1/20)
 ## 2025-05-08 10:14:41 - feat(worker): implement worker feature
 ## 2025-06-08 09:46:15 - feat(docs): create docs handler (11/20)
+## 2025-06-08 15:12:35 - feat(monitor): add monitor support (20/20)
