@@ -88,3 +88,4 @@
 ## 2025-06-15 13:04:14 - feat(ui): create ui handler (6/20)
 ## 2025-07-27 18:48:23 - feat(queue): add queue support (18/20)
 ## 2025-07-29 19:03:57 - feat(build): create build handler
+## 2025-08-17 15:01:04 - feat(test): add test support (8/20)
