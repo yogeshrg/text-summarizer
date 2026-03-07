@@ -96,3 +96,4 @@
 ## 2026-01-18 14:01:30 - feat(metric): add metric support (12/20)
 ## 2026-02-08 11:21:31 - feat(metric): add metric support (17/20)
 ## 2026-02-15 16:48:53 - feat(ci): add ci endpoint (8/20)
+## 2026-03-07 09:12:26 - feat(log): add log support (12/20)
